@@ -6,7 +6,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/toki-plus/auto-usps-tracker?style=social)](https://github.com/toki-plus/auto-usps-tracker/network/members)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/toki-plus/auto-usps-tracker/pulls)
 
-**`USPS Bulk Tracker` is a desktop application designed for cross-border e-commerce sellers and users who need to track a large number of USPS packages. It fully automates the process of bulk-scraping tracking information from the official USPS website and generates beautifully formatted Excel reports.**
+**`Auto USPS Tracker` is a desktop application designed for cross-border e-commerce sellers and users who need to track a large number of USPS packages. It fully automates the process of bulk-scraping tracking information from the official USPS website and generates beautifully formatted Excel reports.**
 
 Are you still struggling with manually checking the tracking status of hundreds or thousands of USPS orders? This project aims to simplify this tedious and time-consuming workflow into a one-click operation, significantly boosting your productivity.
 
