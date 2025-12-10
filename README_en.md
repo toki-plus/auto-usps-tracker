@@ -58,4 +58,4 @@ Are you still struggling with manually checking the tracking status of hundreds 
 
 ### Installation & Launch
 
-Download Link: https://download.llxoxll.com/latest/yanqu_usps_tracker
+-   **Download Link**: https://download.llxoxll.com/latest/yanqu_usps_tracker
