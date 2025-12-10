@@ -1,4 +1,4 @@
-# USPS 批量物流追踪器 (USPS Bulk Tracker)
+# USPS 批量物流追踪器 (Auto USPS Tracker)
 
 [简体中文](./README.md) | [English](./README_en.md)
 
