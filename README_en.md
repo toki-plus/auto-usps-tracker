@@ -1,4 +1,4 @@
-# USPS Bulk Tracker
+# Auto USPS Tracker
 
 [简体中文](./README.md) | [English](./README_en.md)
 
