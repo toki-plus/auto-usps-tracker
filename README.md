@@ -59,3 +59,11 @@
 ### 安装与运行
 
 -   **下载链接**：https://download.llxoxll.com/latest/yanqu_usps_tracker
+
+## 🤝 参与贡献
+
+欢迎任何形式的贡献！如果你有新的功能点子、发现了Bug，或者有任何改进建议，请：
+-   提交一个 [Issue](https://github.com/toki-plus/auto-usps-tracker/issues) 进行讨论。
+-   Fork 本仓库并提交 [Pull Request](https://github.com/toki-plus/auto-usps-tracker/pulls)。
+
+如果这个项目对你有帮助，请不吝点亮一颗 ⭐！
