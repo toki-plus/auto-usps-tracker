@@ -59,3 +59,15 @@ Are you still struggling with manually checking the tracking status of hundreds 
 ### Installation & Launch
 
 -   **Download Link**: https://download.llxoxll.com/latest/yanqu_usps_tracker
+
+## 🤝 Contributing
+
+Contributions of any kind are welcome! If you have ideas for new features, found a bug, or have any suggestions for improvement, please:
+-   Submit an [Issue](https://github.com/toki-plus/auto-usps-tracker/issues) to start a discussion.
+-   Fork this repository and submit a [Pull Request](https://github.com/toki-plus/auto-usps-tracker/pulls).
+
+If this project has been helpful to you, please consider giving it a ⭐!
+
+## 📜 License
+
+This project is open-sourced under the MIT License. See the [LICENSE](LICENSE) file for details.
