@@ -60,6 +60,30 @@ Are you still struggling with manually checking the tracking status of hundreds 
 
 -   **Download Link**: https://download.llxoxll.com/latest/yanqu_usps_tracker
 
+---
+
+<p align="center">
+  <strong>For custom development or technical inquiries, please connect via:</strong>
+</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./images/wechat.png" alt="WeChat QR Code" width="200"/>
+      <br />
+      <sub><b>WeChat</b></sub>
+      <br />
+      <sub>ID: toki-plus</sub>
+    </td>
+    <td align="center">
+      <img src="./images/gzh.png" alt="Public Account QR Code" width="200"/>
+      <br />
+      <sub><b>Public Account</b></sub>
+      <br />
+      <sub>Scan for tech articles</sub>
+    </td>
+  </tr>
+</table>
+
 ## 📂 My Other Open-Source Projects
 
 -   **[Netease Downloader](https://github.com/toki-plus/netease-downloader)**: An elegant, feature-rich desktop application for downloading high-quality and lossless music from Netease Cloud Music, with support for playlists, albums, QR login, and automatic metadata tagging.
