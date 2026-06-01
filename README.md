@@ -60,6 +60,32 @@
 
 -   **下载链接**：https://download.llxoxll.com/latest/yanqu_usps_tracker
 
+---
+
+<p align="center">
+  <strong>业务定制与技术交流，请添加：</strong>
+</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./images/wechat.png" alt="微信二维码" width="200"/>
+      <br />
+      <sub><b>个人微信</b></sub>
+      <br />
+      <sub>微信号: toki-plus</sub>
+      <br />
+      <sub>（请备注来意，否则不通过）</sub>
+    </td>
+    <td align="center">
+      <img src="./images/gzh.png" alt="公众号二维码" width="200"/>
+      <br />
+      <sub><b>公众号</b></sub>
+      <br />
+      <sub>获取最新技术分享</sub>
+    </td>
+  </tr>
+</table>
+
 ## 📂 我的其他开源项目
 
 -   **[Netease Downloader](https://github.com/toki-plus/netease-downloader)**: 一款优雅、功能丰富的网易云音乐下载器，支持无损/高品质音质、歌单/专辑批量下载、扫码登录和自动写入ID3元数据。
